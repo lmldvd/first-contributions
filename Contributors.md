@@ -1,4 +1,4 @@
-- [Oliver Miller](https://github.com/Oliver-H-Miller)
+﻿- [Oliver Miller](https://github.com/Oliver-H-Miller)
 - [Lewis Shaw](https://github.com/iRuisu)
 - [Bao Tran](https://github.com/cyborg103)
 - [Jithu R Jacob 🤓](https://github.com/jithurjacob)
@@ -802,3 +802,4 @@
 - [Tim Guenthner](https://github.com/aerotog)
 - [Jhonatan Casale](https://github.com/jhonatancasale)
 - [Kik Tachanok](https://github.com/tachanokkik)
+- [LMLDVD](https://github.com/lmldvd)
